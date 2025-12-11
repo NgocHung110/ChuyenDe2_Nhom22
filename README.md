@@ -8,8 +8,8 @@ Dự án này xây dựng hệ thống phân vùng tự động các vùng da b�
 
 ## Thành viên nhóm
 
-- **Thành viên 1:** To Ngoc Hoan - 10621023
-- **Thành viên 2:** Nguyen Ngoc Hung - 106210216
+- **Thành viên 1:** Tô Ngọc Hoan - 10621023
+- **Thành viên 2:** Nguyễn Ngọc Hưng - 106210216
 
 ## Tính năng chính
 
@@ -48,8 +48,6 @@ Pillow>=9.5.0
 scikit-learn>=1.2.0
 tqdm>=4.65.0
 torchsummary>=1.5.1
-```
-
 ```
 
 ## Cấu hình huấn luyện
