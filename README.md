@@ -89,11 +89,17 @@ Tỷ lệ pixel được phân loại đúng trên tổng số pixel.
 
 ## Kết quả trực quan
 
-### Biểu đồ huấn luyện
+### Biểu đồ huấn luyện Unet
 ![Training Results](training_results.png)
+
+### Biểu đồ huấn luyện Attention Unet
+![Training Results](attention_training_results.png)
 
 ### Kết quả dự đoán
 ![Prediction Results](prediction_results.png)
+
+### So sánh kết quả huấn luyện giữa hai mô hình
+![Prediction Results](prepare.png)
 
 ## Hạn chế và hướng phát triển
 
