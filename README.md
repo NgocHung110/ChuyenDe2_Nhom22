@@ -1,13 +1,11 @@
-Dưới đây là một đoạn README đơn giản bằng tiếng Việt cho dự án phân vùng da ung thư:
-
 ```markdown
-# 🏥 Phân Vùng Da Ung Thư Sử Dụng Mô Hình UNet
+🏥 Phân Vùng Da Ung Thư Sử Dụng Mô Hình UNet
 
-## 📋 Giới Thiệu Dự Án
+📋 Giới Thiệu Dự Án
 
 Dự án này phát triển hệ thống tự động phân vùng vùng da bị ung thư bằng mô hình học sâu UNet. Hệ thống giúp hỗ trợ bác sĩ trong việc chẩn đoán sớm và chính xác các tổn thương da.
 
-## ✨ Tính Năng Chính
+✨ Tính Năng Chính
 
 - 🎯 **Phân vùng chính xác** vùng da ung thư từ ảnh đầu vào
 - 🤖 **Mô hình UNet** với skip connections cho kết quả tốt nhất
@@ -15,7 +13,7 @@ Dự án này phát triển hệ thống tự động phân vùng vùng da bị 
 - 🚀 **Tốc độ cao** với inference time ~35ms/ảnh
 
 
-## 📈 Kết Quả Đạt Được
+📈 Kết Quả Đạt Được
 
 | Metric | Train | Validation |
 |--------|-------|------------|
@@ -25,7 +23,7 @@ Dự án này phát triển hệ thống tự động phân vùng vùng da bị 
 
 ![Kết quả phân vùng](results/prediction_examples.png)
 
-## 👥 Thành Viên Nhóm
+👥 Thành Viên Nhóm
 
 | STT |     Họ Tên      |    MSSV   |
 |-----|-----------------|-----------|
