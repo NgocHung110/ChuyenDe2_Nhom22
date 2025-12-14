@@ -8,7 +8,7 @@ Dự án này xây dựng hệ thống phân vùng tự động các vùng da b�
 
 ## Thành viên nhóm
 
-- **Thành viên 1:** Tô Ngọc Hoan - 10621023
+- **Thành viên 1:** Tô Ngọc Hoan - 106210213
 - **Thành viên 2:** Nguyễn Ngọc Hưng - 106210216
 
 ## Tính năng chính
